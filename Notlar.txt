@@ -1,0 +1,13 @@
+﻿N-Layer Architecture
+(n-tier)
+*** Tum katmanlar mumukun oldugunca birbirinden bagimsiz olmalı...
+*** Katmanlı Mimariyi kullanmanın amacı; projeleri fiziksel ve mantıksal olarak kısımlara ayırmaktır...
+
+**** Katmanlar(Genelde)
+     *** DAL(Data Access Layer)
+     *** BLL(Bussiness Logic Layer)
+     *** PL (Presantation Layer)
+     *** Models(Entities)
+
+Konu:Araba,Marka Model
+
